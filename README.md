@@ -5,7 +5,7 @@ This repository contains information related to the plugin FLAT3 in eclipse  pre
 
 You can find the paper on the folloing  [link](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6062173&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6062173).
 
-This repository is not the original repository for this tool.
+This repository _is not_ the original repository for this tool.
 
 In this repository, for FLAT3 you will find:
 
