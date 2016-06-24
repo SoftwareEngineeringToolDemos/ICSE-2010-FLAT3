@@ -12,9 +12,8 @@ This repository _is not_ the original repository for this tool.Here are some lin
 
 In this repository, for FLAT3 you will find:
 
-
-* :white_check_mark: [Source code] (http://www.cs.wm.edu/semeru/flat3/edu.wm.flat3_0.2.4.tar.gz)
-* :white_check_mark: [Executable tool](http://www.cs.wm.edu/semeru/flat3/edu.wm.flat3_0.2.4.jar)
+* :x: Source code (not available)
+* :x: Executable tool (not available)
 * :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Rishi Anne](https://github.com/rishielnino) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
